@@ -33,6 +33,7 @@ Dashboard:
 
 
 
+
 Project Insight:
 
 Women customers are more likely to buy products compared to men (~65%).
